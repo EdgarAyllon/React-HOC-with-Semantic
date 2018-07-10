@@ -1,14 +1,17 @@
 # React-HOC-with-Semantic
 React HOC using Semantic-ui for personal proyects
+#
+### View demo [here](http://react-hoc-semantic.surge.sh/)
+#
+## Screenshots 
+* Normal view, all inactive
 
-*- Normal view -*
+  ![screenshot](/media/screenshot_1.png)
 
-![screenshot](/media/screenshot_1.png)
+* withConnectionStatus active ( internet disconected )
 
-*- withConnectionStatus ( internet disconected ) -*
+  ![screenshot](/media/screenshot_3.png)
 
-![screenshot](/media/screenshot_3.png)
+* withResponsive active
 
-*- withResponsive active -*
-
-![screenshot](/media/screenshot_2.png)
+  ![screenshot](/media/screenshot_2.png)

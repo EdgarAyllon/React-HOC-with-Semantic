@@ -14,9 +14,6 @@
   ],
   "author": "Edgar Ayllon",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EdgarAyllon/React-HOC-with-Semantic/issues"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
