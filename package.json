@@ -1,0 +1,27 @@
+{
+  "name": "semantic-hoc",
+  "version": "1.0.0",
+  "description": "React HOC with semantic",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarAyllon/React-HOC-with-Semantic.git"
+  },
+  "keywords": [
+    "hoc",
+    "semantic",
+    "react"
+  ],
+  "author": "Edgar Ayllon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdgarAyllon/React-HOC-with-Semantic/issues"
+  },
+  "homepage": "https://github.com/EdgarAyllon/React-HOC-with-Semantic#readme",
+  "dependencies": {
+    "react-semantic-ui": "^0.2.0"
+  }
+}
