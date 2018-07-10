@@ -2,10 +2,7 @@
   "name": "semantic-hoc",
   "version": "1.0.0",
   "description": "React HOC with semantic",
-  "main": "src/",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EdgarAyllon/React-HOC-with-Semantic.git"
@@ -20,8 +17,17 @@
   "bugs": {
     "url": "https://github.com/EdgarAyllon/React-HOC-with-Semantic/issues"
   },
-  "homepage": "https://github.com/EdgarAyllon/React-HOC-with-Semantic#readme",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
-    "react-semantic-ui": "^0.2.0"
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4",
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.82.0"
   }
 }
